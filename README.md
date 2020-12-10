@@ -3,4 +3,4 @@ Implementation of Machine Learning algorithms in order to understand it (Andrew 
 
 Algorithms:
 * Univariate Linear Regression
-* Multivariate Linear Regression
+* Multivariate Linear Regression (in progress)
